@@ -21,6 +21,7 @@ node_modules/
 
 .tox
 
+output
 secret.py
 inscrawler/bin/*
 !inscrawler/bin/.keep
